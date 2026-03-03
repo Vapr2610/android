@@ -1,0 +1,37 @@
+# Скомпилированные файлы
+*.class
+*.jar
+*.apk
+*.aab
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+*.hprof
+local.properties
+
+# Build
+/build/
+app/build/
+*/build/
+captures/
+
+# Gradle
+.gradle/
+gradle-app.setting
+
+# Keystores
+*.jks
+*.keystore
+*.p12
+*.bks
+
+# Logs
+*.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db

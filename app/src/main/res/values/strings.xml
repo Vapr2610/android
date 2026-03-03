@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Android App</string>
+
+    <!-- MainActivity -->
+    <string name="main_title">Практические задания</string>
+    <string name="btn_calculator">🧮 Калькулятор</string>
+    <string name="btn_player">🎵 Медиаплеер</string>
+    <string name="btn_location">📍 Местоположение</string>
+
+    <!-- Calculator -->
+    <string name="title_calculator">Калькулятор</string>
+    <string name="calc_display">0</string>
+    <string name="btn_clear">C</string>
+    <string name="btn_equal">=</string>
+
+    <!-- MediaPlayer -->
+    <string name="title_player">Медиаплеер</string>
+    <string name="player_no_tracks">Нет доступных треков</string>
+    <string name="player_play">▶</string>
+    <string name="player_pause">⏸</string>
+    <string name="player_stop">⏹</string>
+
+    <!-- Location -->
+    <string name="title_location">Местоположение</string>
+    <string name="location_latitude">Широта:</string>
+    <string name="location_longitude">Долгота:</string>
+    <string name="location_altitude">Высота:</string>
+    <string name="location_time">Время:</string>
+    <string name="location_waiting">Ожидание GPS...</string>
+    <string name="location_permission_denied">Разрешение не получено</string>
+
+    <!-- Общие -->
+    <string name="permission_required">Требуется разрешение</string>
+</resources>
